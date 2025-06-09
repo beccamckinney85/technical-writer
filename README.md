@@ -1,2 +1,2 @@
 # Hi, I'm Becca. 
-<p>I really like using Markdown.</p>
+<p>I make complicated information easy to understand by writing clear and concise documentation. I create help guides, release notes, and video tutorials, and am involved in the integration of an AI-driven chatbot to improve user experience and reduce support reliance. I’m passionate about enhancing user engagement, streamlining processes, and empowering users through intuitive, self-service solutions.</p>
