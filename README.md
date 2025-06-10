@@ -6,7 +6,7 @@ I make complext information easy to understand. I create help guides, configurat
 
 <p>Below, you'll find the links to three writing samples. Click on the link to go to the writing sample. 
 <ol>
-  <li> Instruction manual</li>
+  <li> Instruction manual: How-to create a GitHub repository</li>
   <li> </li>
   <li> </li>
 </ol>
