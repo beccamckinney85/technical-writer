@@ -1,6 +1,6 @@
 # Welcome to my portfolio site. 
 
-<p>My name is Becca and I've been a technical writer for 7+ years. I hold a Bachelors of Science degree in Technical Communication from Kennesaw State University.  
+<p>My name is Becca and I've been a technical writer for 7+ years. I hold a Bachelors of Science degree in Technical Communication with a concentration in Data Analysis and Presentation.  
   
 As a technical writer, I make complex information easy to understand. I create help guides, configuration documents, release notes, video tutorials, and whatever else is needed to ensure that the end-user has everything that they need to make their task easier.</p>
 
