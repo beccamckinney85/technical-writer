@@ -6,7 +6,7 @@ I create help guides, configuration docs, release notes, video tutorials, and ot
 
 <p>Below, you'll find the links to three writing samples. Click on the link to go to the writing sample. 
 <ol>
-  <li>  <b>Instruction manual: How-to set-up and use the Lose It! app</b> </li>
+  <li>  <b>Instruction manual:</b> How-to use the Lose It! app</li>
   <li> <b>Video tutorial:</b> How-to set up a static site using GitHub pages </li>
   <li> <b>User guide:</b> Create and customize a Markdown-based Wiki with GitHub
 </li>
