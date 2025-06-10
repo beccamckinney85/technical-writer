@@ -4,9 +4,9 @@
 
 <p>On my site, you'll find the links to three writing samples. Click on the link to go to the writing sample. 
 <ol>
-  <li>1. </li>
-  <li>2. /li>
-  <li>3. </li>
+  <li> </li>
+  <li> /li>
+  <li> </li>
 </ol>
   
 </p>
