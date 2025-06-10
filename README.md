@@ -6,9 +6,9 @@ I make complext information easy to understand. I create help guides, configurat
 
 <p>Below, you'll find the links to three writing samples. Click on the link to go to the writing sample. 
 <ol>
-  <li>  Instruction manual: </li>
-  <li> Video tutorial: How-to set up a static site using GitHub pages </li>
-  <li> User guide: Create and customize a Markdown-based Wiki with GitHub
+  <li>  <b>Instruction manual:</b> </li>
+  <li> <b>Video tutorial:</b> How-to set up a static site using GitHub pages </li>
+  <li> <b>User guide:</b> Create and customize a Markdown-based Wiki with GitHub
 </li>
 </ol>
   
