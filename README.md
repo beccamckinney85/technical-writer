@@ -1,2 +1,6 @@
-# Hi, I'm Becca. 
-<p>I've been a technical writer for 7+ years, mainly working in the SaaS space. I make complicated information easy to understand by writing clear and concise documentation. I create help guides, release notes, and video tutorials, and am involved in the integration of an AI-driven chatbot to improve user experience and reduce support reliance. I’m passionate about enhancing user engagement, streamlining processes, and empowering users through intuitive, self-service solutions.</p>
+# Welcome to my portfolio site. 
+
+<p>My name is Becca and I've been a technical writer for 7+ years. I make complicated information easy to understand by writing clear and concise documentation. I create help guides, release notes, video tutorials, and more.</p>
+
+<p>On my site, you'll find the links to three projects: 
+</p>
