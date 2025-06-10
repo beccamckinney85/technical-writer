@@ -1,4 +1,4 @@
-# Welcome to my portfolio site. 
+# Welcome to my technical writing portfolio. 
 
 <p>My name is Becca and I've been a technical writer for 7+ years. I hold a Bachelors of Science degree in Technical Communication with a concentration in Data Analysis and Presentation.  
   
