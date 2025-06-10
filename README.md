@@ -8,7 +8,7 @@ I create help guides, configuration docs, release notes, video tutorials, and ot
 <ol>
   <li>  <b>Instruction manual:</b> </li>
   <li> <b>Video tutorial:</b> How-to set up a static site using GitHub pages </li>
-  <li> <b>User guide:</b> [Link display text - (http://example.com/)]
+  <li> <b>User guide:</b> [Link display text - Document]([http://www.example.com](https://docs.google.com/document/d/1n-fSFvdZk8NSjufqNc4Ct_ZJes6VmeIbJFfvAKKQ9jU/edit?tab=t.0#heading=h.fgspx4mrcm8))
 </li>
 </ol>
   
