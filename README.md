@@ -1,10 +1,10 @@
-# This is my technical writing portfolio site. 
+# This is my technical writing portfolio site. I make complicated information easy to understand. 
 
 <p>My name is Becca and I've been a technical writer for 7+ years. I hold a Bachelors of Science degree in Technical Communication with a concentration in Data Analysis and Presentation.  
   
 I create help guides, configuration docs, release notes, video tutorials, and other resources to help users complete their tasks more easily. 
 
-<p>Below, you'll find the links to three writing samples. Click on the link to go to open the PDF. 
+<p>Below, you'll find the links to three of my writing samples. Click on the link to go to open the PDF. 
 
 <b>Instruction manual:</b> How-to download and begin using the Lose It! app
 
