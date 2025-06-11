@@ -11,9 +11,4 @@ I create help guides, configuration docs, release notes, video tutorials, and ot
   <li> <b>User guide:</b> Create and customize a Markdown-based Wiki with GitHub
 </li>
 </ol>
-  
-  <p>[Create and Customize a Markdown-Based Wiki with GitHub](User Guide_ Create and Customize a Markdown-Based Wiki with GitHub.pdf)
-[Create and Customize a Markdown-Based Wiki with GitHub](User Guide_ Create and Customize a Markdown-Based Wiki with GitHub.pdf)</p>
-</p>
-
-<p>This site was created by me using GitHub pages.</p>
+<p><i>This site was created by me using GitHub pages.</i></p>
