@@ -4,7 +4,7 @@
   
 I create help guides, configuration docs, release notes, video tutorials, and other resources to help users complete their tasks more easily. 
 
-<p>Below, you'll find the links to three writing samples. Click on the link to go to the writing sample. 
+<p>Below, you'll find the links to three writing samples. Click on the link to go to open the PDF. 
 <ol>
   <li>  <b>Instruction manual:</b> How-to download and begin using the Lose It! app</li>
   <li> <b>Video tutorial:</b> How-to set up a static site using GitHub pages </li>
