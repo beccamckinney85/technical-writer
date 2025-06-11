@@ -8,12 +8,10 @@ I create help guides, configuration docs, release notes, video tutorials, and ot
 <ol>
   <li>  <b>Instruction manual:</b> How-to download and begin using the Lose It! app</li>
   <li> <b>Video tutorial:</b> How-to set up a static site using GitHub pages </li>
-  <li> <b>User guide:</b> Create and customize a Markdown-based Wiki with GitHub
-</li>
+  <li> <b>User guide:</b> Create and customize a Markdown-based Wiki with GitHub</li>
 </ol>
-<object data="User Guide_ Create and Customize a Markdown-Based Wiki with GitHub.pdf" width="1000" height="1000" type='application/pdf'/>
 
-
+[User guide: Create and customize a Markdown-based Wiki with GitHub](https://github.com/beccamckinney85/technical-writer/blob/main/User%20Guide_%20Create%20and%20Customize%20a%20Markdown-Based%20Wiki%20with%20GitHub.pdf)
 
 
 <p><i>This site was created by me using GitHub pages.</i></p>
