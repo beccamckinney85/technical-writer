@@ -1,4 +1,4 @@
-# I make complex information easy to understand.
+# This is my technical writing portfolio site. 
 
 <p>My name is Becca and I've been a technical writer for 7+ years. I hold a Bachelors of Science degree in Technical Communication with a concentration in Data Analysis and Presentation.  
   
