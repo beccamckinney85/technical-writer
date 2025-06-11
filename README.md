@@ -10,6 +10,6 @@ I create help guides, configuration docs, release notes, video tutorials, and ot
 
 <b>Video tutorial:</b> How-to set up a static site using GitHub pages 
   
-<b>User guide:</b> [User guide: Create and customize a Markdown-based Wiki with GitHub](https://github.com/beccamckinney85/technical-writer/blob/main/User%20Guide_%20Create%20and%20Customize%20a%20Markdown-Based%20Wiki%20with%20GitHub.pdf)
+<b>User guide:</b> [Create and customize a Markdown-based Wiki with GitHub](https://drive.google.com/file/d/1LZ6s0J_pA9odj-V0f3JS4VfnMd8Mbd7i/view?usp=drive_link)
 
 <p><i>This site was created by me using GitHub pages.</i></p>
