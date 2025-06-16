@@ -2,7 +2,7 @@
 
 <p>My name is Becca and I've been a technical writer for 7+ years. I hold a Bachelors of Science degree in Technical Communication with a concentration in Data Analysis and Presentation.  
   
-I make complex information easy to understand by creating user-centric help guides, configuration docs, release notes, video tutorials, and other resources.  
+I mostly work in the SaaS space, making complex information easy to understand. I create user-centric help guides, configuration docs, release notes, video tutorials, and other resources.  
 
 <p>Below, you'll find the links to three of my writing samples. Click on the link to go to open the PDF. 
 
