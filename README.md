@@ -4,7 +4,7 @@
   
 I mostly work in the SaaS space, making complex information easy to understand. I create user-centric help guides, configuration docs, release notes, video tutorials, and other resources.  
 
-<p>Below, you'll find the links to three of my writing samples. Click on the link to go to open the PDF. 
+<p>Below, you'll find the links to three of my writing samples. Click on the link to open the PDF. 
 
 *<b>Instruction manual:</b> How-to download and begin using the Lose It! app
 <ul><b>Video tutorial:</b> How-to set up a static site using GitHub pages </ul>
