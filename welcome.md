@@ -6,8 +6,6 @@ I mostly work in the SaaS space, making complex information easy to understand. 
 
 <p>Below, you'll find the links to three of my writing samples. Click on the link to go to open the PDF. 
 
-<b>Instruction manual:</b> How-to download and begin using the Lose It! app
-
-<b>Video tutorial:</b> How-to set up a static site using GitHub pages 
-  
-<b>User guide:</b> [Create and customize a Markdown-based Wiki with GitHub](https://drive.google.com/file/d/1LZ6s0J_pA9odj-V0f3JS4VfnMd8Mbd7i/view?usp=drive_link)
+*<b>Instruction manual:</b> How-to download and begin using the Lose It! app
+<ul><b>Video tutorial:</b> How-to set up a static site using GitHub pages </ul>
+<ul><b>User guide:</b> [Create and customize a Markdown-based Wiki with GitHub](https://drive.google.com/file/d/1LZ6s0J_pA9odj-V0f3JS4VfnMd8Mbd7i/view?usp=drive_link)</ul>
