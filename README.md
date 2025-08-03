@@ -11,4 +11,4 @@ I mostly work in the SaaS space, making complex information easy to understand. 
 * [User Guide](https://drive.google.com/file/d/1LZ6s0J_pA9odj-V0f3JS4VfnMd8Mbd7i/view?usp=drive_link)
 * [Style Guide](https://drive.google.com/file/d/1rkZXSCJCzIZRJpe4btyh5_haLEwbFLgq/view?usp=sharing)
 
-[Visit my LinkedIn page.](www.linkedin.com/in/beccamckinney85) 
+[Visit my LinkedIn page.](www.linkedin.com/in/beccamckinney85)
