@@ -9,6 +9,6 @@ I mostly work in the SaaS space, making complex information easy to understand. 
 * Mini Product Guide 
 * API Quick Start Guide 
 * [User Guide](https://drive.google.com/file/d/1LZ6s0J_pA9odj-V0f3JS4VfnMd8Mbd7i/view?usp=drive_link)
-* Internal Style Guide
+* [Style Guide](https://drive.google.com/file/d/1rkZXSCJCzIZRJpe4btyh5_haLEwbFLgq/view?usp=sharing)
 
 [Visit my LinkedIn page.](https://www.linkedin.com/feed/) 
